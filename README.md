@@ -26,7 +26,7 @@
 
 <!-- IMAGE UNDER STATUS -->
 <p align="center">
-  <img src="https://github.com/husamhusamm/srap/blob/main/logo.png"
+  <img src="https://github.com/cybershark2c4/Swarm/blob/main/swarm.jpeg"
   width="220px"
   style="
     border-radius: 20px;
