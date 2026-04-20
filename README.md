@@ -109,6 +109,6 @@ sudo ./setup_s7.sh
 <div style="border:1px solid #ff0000; padding:12px; margin:10px; border-radius:12px; background:#0a0a0a; box-shadow:0 0 20px red;">
 <pre>
 # 5. Launch the Swarm
-./Swarm.sh
+./swarm.sh
 </pre>
 </div>
