@@ -81,7 +81,7 @@ The engine dynamically configures <code>torrc</code> for parallel routing and us
 <div style="border:1px solid #ff0000; padding:12px; margin:10px; border-radius:12px; background:#0a0a0a; box-shadow:0 0 15px rgba(255,0,0,0.3);">
 <pre>
 # 1. Clone the Arsenal
-git clone https://github.com/YourUsername/S7-Swarm.git
+git clone https://github.com/cybershark2c4/Swarm.git
 </pre>
 </div>
 
