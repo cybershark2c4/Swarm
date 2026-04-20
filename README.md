@@ -95,7 +95,7 @@ cd Swarm
 <div style="border:1px solid #ff0000; padding:12px; margin:10px; border-radius:12px; background:#0a0a0a;">
 <pre>
 # 3. Grant Execution Rights
-chmod +x setup_s7.sh Swarm.sh
+chmod +x setup_s7.sh swarm.sh
 </pre>
 </div>
 
